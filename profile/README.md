@@ -25,6 +25,8 @@ https://eclipse-slm.github.io/slm/
 
 [Ansible Role | Docker](https://github.com/eclipse-slm/slm-ansible-role-docker)
 
+[Ansible Role | Podman](https://github.com/eclipse-slm/slm-ansible-role-podman)
+
 [Ansible Role | Node Exporter](https://github.com/eclipse-slm/slm-ansible-role-node-exporter)
 
 [Ansible Role | Consul](https://github.com/eclipse-slm/slm-ansible-role-consul)
