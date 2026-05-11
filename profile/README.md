@@ -23,6 +23,8 @@ https://eclipse-slm.github.io/slm/
 ## Ansible Roles
 [Ansible Role | Inventory Helper](https://github.com/eclipse-slm/slm-ansible-role-inventory-helper)
 
+[Ansible Role | Python](https://github.com/eclipse-slm/slm-ansible-role-python)
+
 [Ansible Role | Docker](https://github.com/eclipse-slm/slm-ansible-role-docker)
 
 [Ansible Role | Podman](https://github.com/eclipse-slm/slm-ansible-role-podman)
