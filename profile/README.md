@@ -20,6 +20,8 @@ https://eclipse-slm.github.io/slm/
 
 [Molecule vSphere](https://github.com/eclipse-slm/molecule_vsphere)
 
+[Molecule kubevirt](https://github.com/eclipse-slm/molecule_kubevirt)
+
 ## Ansible Roles
 [Ansible Role | Inventory Helper](https://github.com/eclipse-slm/slm-ansible-role-inventory-helper)
 
