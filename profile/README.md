@@ -22,6 +22,12 @@ https://eclipse-slm.github.io/slm/
 
 [Molecule kubevirt](https://github.com/eclipse-slm/molecule_kubevirt)
 
+## Ansible Collections
+
+[Ansible Collection | AAS](https://github.com/eclipse-slm/ansible-collection-aas)
+
+[Ansible Collection | SLM](https://github.com/eclipse-slm/ansible-collection-slm)
+
 ## Ansible Roles
 [Ansible Role | Inventory Helper](https://github.com/eclipse-slm/slm-ansible-role-inventory-helper)
 
