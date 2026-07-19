@@ -22,6 +22,8 @@ https://eclipse-slm.github.io/slm/
 
 [Molecule kubevirt](https://github.com/eclipse-slm/molecule_kubevirt)
 
+[Molecule docker](https://github.com/eclipse-slm/molecule_docker)
+
 ## Ansible Collections
 
 [Ansible Collection | AAS](https://github.com/eclipse-slm/ansible-collection-aas)
