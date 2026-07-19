@@ -47,6 +47,8 @@ https://eclipse-slm.github.io/slm/
 
 [Ansible Role | BaSyx Server](https://github.com/eclipse-slm/slm-ansible-role-basyx-server)
 
+[Ansible Role | Vault Client](https://github.com/eclipse-slm/slm-ansible-role-vault-client)
+
 ## Configuration Capabilites
 [Base Configuration](https://github.com/eclipse-slm/slm-cc-base)
  
