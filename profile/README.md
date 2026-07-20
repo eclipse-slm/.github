@@ -41,6 +41,8 @@ https://eclipse-slm.github.io/slm/
 
 [Ansible Role | Podman](https://github.com/eclipse-slm/slm-ansible-role-podman)
 
+[Ansible Role | MinIO Client](https://github.com/eclipse-slm/slm-ansible-role-minio-client)
+
 [Ansible Role | Node Exporter](https://github.com/eclipse-slm/slm-ansible-role-node-exporter)
 
 [Ansible Role | RabbitMQ Client](https://github.com/eclipse-slm/slm-ansible-role-rabbitmq-client)
