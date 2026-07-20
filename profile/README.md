@@ -43,6 +43,8 @@ https://eclipse-slm.github.io/slm/
 
 [Ansible Role | Node Exporter](https://github.com/eclipse-slm/slm-ansible-role-node-exporter)
 
+[Ansible Role | RabbitMQ Client](https://github.com/eclipse-slm/slm-ansible-role-rabbitmq-client)
+
 [Ansible Role | Consul](https://github.com/eclipse-slm/slm-ansible-role-consul)
 
 [Ansible Role | BaSyx Server](https://github.com/eclipse-slm/slm-ansible-role-basyx-server)
