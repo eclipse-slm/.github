@@ -31,19 +31,21 @@ https://eclipse-slm.github.io/slm/
 [Ansible Collection | SLM](https://github.com/eclipse-slm/ansible-collection-slm)
 
 ## Ansible Roles
-[Ansible Role | Inventory Helper](https://github.com/eclipse-slm/slm-ansible-role-inventory-helper)
-
-[Ansible Role | Python](https://github.com/eclipse-slm/slm-ansible-role-python)
-
 [Ansible Role | Consul Client](https://github.com/eclipse-slm/slm-ansible-role-consul-client)
 
 [Ansible Role | Docker](https://github.com/eclipse-slm/slm-ansible-role-docker)
 
-[Ansible Role | Podman](https://github.com/eclipse-slm/slm-ansible-role-podman)
+[Ansible Role | Inventory Helper](https://github.com/eclipse-slm/slm-ansible-role-inventory-helper)
+
+[Ansible Role | Keycloak Client](https://github.com/eclipse-slm/slm-ansible-role-keycloak-client)
 
 [Ansible Role | MinIO Client](https://github.com/eclipse-slm/slm-ansible-role-minio-client)
 
 [Ansible Role | Node Exporter](https://github.com/eclipse-slm/slm-ansible-role-node-exporter)
+
+[Ansible Role | Podman](https://github.com/eclipse-slm/slm-ansible-role-podman)
+
+[Ansible Role | Python](https://github.com/eclipse-slm/slm-ansible-role-python)
 
 [Ansible Role | RabbitMQ Client](https://github.com/eclipse-slm/slm-ansible-role-rabbitmq-client)
 
