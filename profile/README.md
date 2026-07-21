@@ -31,6 +31,12 @@ https://eclipse-slm.github.io/slm/
 [Ansible Collection | SLM](https://github.com/eclipse-slm/ansible-collection-slm)
 
 ## Ansible Roles
+[Ansible Role | AWX Client](https://github.com/eclipse-slm/slm-ansible-role-awx-client)
+
+[Ansible Role | BaSyx Server](https://github.com/eclipse-slm/slm-ansible-role-basyx-server)
+
+[Ansible Role | Consul](https://github.com/eclipse-slm/slm-ansible-role-consul)
+
 [Ansible Role | Consul Client](https://github.com/eclipse-slm/slm-ansible-role-consul-client)
 
 [Ansible Role | Docker](https://github.com/eclipse-slm/slm-ansible-role-docker)
@@ -48,10 +54,6 @@ https://eclipse-slm.github.io/slm/
 [Ansible Role | Python](https://github.com/eclipse-slm/slm-ansible-role-python)
 
 [Ansible Role | RabbitMQ Client](https://github.com/eclipse-slm/slm-ansible-role-rabbitmq-client)
-
-[Ansible Role | Consul](https://github.com/eclipse-slm/slm-ansible-role-consul)
-
-[Ansible Role | BaSyx Server](https://github.com/eclipse-slm/slm-ansible-role-basyx-server)
 
 [Ansible Role | Vault Client](https://github.com/eclipse-slm/slm-ansible-role-vault-client)
 
