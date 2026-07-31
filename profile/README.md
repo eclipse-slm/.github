@@ -55,6 +55,8 @@ https://eclipse-slm.github.io/slm/
 
 [Ansible Role | RabbitMQ Client](https://github.com/eclipse-slm/slm-ansible-role-rabbitmq-client)
 
+[Ansible Role | SLM Client](https://github.com/eclipse-slm/slm-ansible-role-slm-client)
+
 [Ansible Role | Vault Client](https://github.com/eclipse-slm/slm-ansible-role-vault-client)
 
 ## Configuration Capabilites
