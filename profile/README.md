@@ -59,6 +59,8 @@ https://eclipse-slm.github.io/slm/
 
 [Ansible Role | Vault Client](https://github.com/eclipse-slm/slm-ansible-role-vault-client)
 
+[Ansible Role | Wazuh](https://github.com/eclipse-slm/slm-ansible-role-wazuh)
+
 [Ansible Role | Wazuh Client](https://github.com/eclipse-slm/slm-ansible-role-wazuh-client)
 
 ## Configuration Capabilites
