@@ -12,6 +12,8 @@ https://eclipse-slm.github.io/slm/
 ## Common
 [AWX](https://github.com/eclipse-slm/awx)
 
+[AWX Execution Environment](https://github.com/eclipse-slm/awx-execution-environment)
+
 [AWX JWT Authenticator](https://github.com/eclipse-slm/awx-jwt-authenticator)
 
 [Ansible](https://github.com/eclipse-slm/ansible)
