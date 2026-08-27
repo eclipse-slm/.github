@@ -47,6 +47,8 @@ https://eclipse-slm.github.io/slm/
 
 [Ansible Role | Keycloak Client](https://github.com/eclipse-slm/slm-ansible-role-keycloak-client)
 
+[Ansible Role | LiteLLM](https://github.com/eclipse-slm/slm-ansible-role-litellm)
+
 [Ansible Role | MinIO Client](https://github.com/eclipse-slm/slm-ansible-role-minio-client)
 
 [Ansible Role | Node Exporter](https://github.com/eclipse-slm/slm-ansible-role-node-exporter)
