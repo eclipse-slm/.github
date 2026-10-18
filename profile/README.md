@@ -20,11 +20,15 @@ https://eclipse-slm.github.io/slm/
 
 [Molecule](https://github.com/eclipse-slm/molecule)
 
-[Molecule vSphere](https://github.com/eclipse-slm/molecule_vsphere)
+[Molecule docker](https://github.com/eclipse-slm/molecule_docker)
+
+[Molecule generic](https://github.com/eclipse-slm/molecule_generic)
 
 [Molecule kubevirt](https://github.com/eclipse-slm/molecule_kubevirt)
 
-[Molecule docker](https://github.com/eclipse-slm/molecule_docker)
+[Molecule openstack](https://github.com/eclipse-slm/molecule_openstack)
+
+[Molecule vSphere](https://github.com/eclipse-slm/molecule_vsphere)
 
 ## Ansible Collections
 
@@ -52,6 +56,8 @@ https://eclipse-slm.github.io/slm/
 [Ansible Role | MinIO Client](https://github.com/eclipse-slm/slm-ansible-role-minio-client)
 
 [Ansible Role | Node Exporter](https://github.com/eclipse-slm/slm-ansible-role-node-exporter)
+
+[Ansible Role | Openclaw](https://github.com/eclipse-slm/slm-ansible-role-openclaw)
 
 [Ansible Role | Podman](https://github.com/eclipse-slm/slm-ansible-role-podman)
 
